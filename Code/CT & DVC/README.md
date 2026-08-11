@@ -41,7 +41,7 @@ matplotlib
 
 ## Data Requirements
 
-All input data files are available on Figshare (currently embargoed). The dataset includes:
+All input data files are available on Figshare (https://doi.org/10.5522/04/30286255). The dataset includes:
 
 ### CT Image Data
 
@@ -269,8 +269,8 @@ bioRxiv. doi: 10.1101/2025.09.19.677294
 
 ## Data Availability
 
-All input data and example outputs are available on Figshare (currently embargoed):
-[Link to be updated when embargo is lifted]
+All input data and example outputs are available on Figshare:
+https://doi.org/10.5522/04/30286255
 
 ## Support
 
@@ -283,5 +283,11 @@ For questions about the code or methodology, please refer to the paper's methods
 ## Acknowledgments
 
 This work was performed using synchrotron imaging at Diamond Light Source, UK. The TomoSAXS method was developed to enable full-field 3D mapping of fibril-to-fibre mechanics across intact tissues.
+
+All code in this section was written by Dr Alissa Parmenter during her PhD at University College London.
+
+Initial methodology for calculating fibre strain from DVC was developed by Dr Catherine Disney during her EPSRC Doctoral Prize Fellowship at the University of Manchester. If you use this functionality, please also cite:
+
+Disney, C.M., Mo, J., Eckersley, A., Bodey, A.J., Hoyland, J.A., Sherratt, M.J., Pitsillides, A.A., Lee, P.D., Bay, B.K. (2022). Regional variations in discrete collagen fibre mechanics within intact intervertebral disc resolved using synchrotron computed tomography and digital volume correlation. Acta Biomaterialia, 138, 361–374.
 
 Funding: Engineering and Physical Sciences Research Council (EPSRC) grants EP/V011235/1, EP/V011006/1, EP/V011383/1, EP/V011065/1; Medical Research Council (MRC) grants MR/R025673/1, MR/V033506/1.
