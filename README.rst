@@ -8,6 +8,8 @@ Himadri S. Gupta (h.gupta@qmul.ac.uk)
 Elis Newham (e.newham@qmul.ac.uk)
 Alissa Parmenter (alissa.parmenter.20@ucl.ac.uk)
 
+Data required to run the code is available on Figshare: https://doi.org/10.5522/04/30286255 
+
 The full TomoSAXS team can be found at the following GTR UKRI links 1) Queen Mary University of London (QMUL; Prof. Himadri S. Gupta, Dr. Elis Newham): https://gtr.ukri.org/projects?ref=EP%2FV011235%2F1 2) University College London (UCL: Prof. Peter Lee, Alissa Parmenter, Dr. Jishizhan Chen): https://gtr.ukri.org/projects?ref=EP%2FV011006%2F1 3) Diamond Light Source (DLS: Dr. Nick Terrill, Dr. Tim Snow) https://gtr.ukri.org/projects?ref=EP%2FV011383%2F1 and 4) University of Manchester (UoM: Prof. Michael J. Sherratt and Prof. Judith A. Hoyland) https://gtr.ukri.org/projects?ref=EP%2FV011065%2F1.
 
 Read the tutorial on creating Sphinx-based Read The Docs pages here:
