@@ -266,6 +266,12 @@ Newham, E., Parmenter, A.L., et al. (2025).
 Multimodal X-ray imaging reveals hierarchical fibre mechanics. 
 bioRxiv. doi: 10.1101/2025.09.19.677294
 ```
+## Acknowledgement
+The fibre DVC methodology implemented in this repository was originally developed by Dr Catherine Disney during her EPSRC Doctoral Prize Fellowship at the University of Manchester. If you use this functionality, please also cite:
+'''
+Disney, C.M., Mo, J., Eckersley, A., Bodey, A.J., Hoyland, J.A., Sherratt, M.J., Pitsillides, A.A., Lee, P.D., Bay, B.K. (2022). 
+Regional variations in discrete collagen fibre mechanics within intact intervertebral disc resolved using synchrotron computed tomography and digital volume correlation. Acta Biomaterialia, 138, 361–374.
+'''
 
 ## Data Availability
 
