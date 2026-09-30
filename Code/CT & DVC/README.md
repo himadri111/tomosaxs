@@ -267,14 +267,6 @@ Multimodal X-ray imaging reveals hierarchical fibre mechanics.
 bioRxiv. doi: 10.1101/2025.09.19.677294
 ```
 
-## Acknowledgement
-The fibre DVC methodology implemented in this repository was originally developed by Dr Catherine Disney during her EPSRC Doctoral Prize Fellowship at the University of Manchester. If you use this functionality, please also cite:
-
-'''
-Disney, C.M., Mo, J., Eckersley, A., Bodey, A.J., Hoyland, J.A., Sherratt, M.J., Pitsillides, A.A., Lee, P.D., Bay, B.K. (2022). 
-Regional variations in discrete collagen fibre mechanics within intact intervertebral disc resolved using synchrotron computed tomography and digital volume correlation. Acta Biomaterialia, 138, 361–374.
-'''
-
 ## Data Availability
 
 All input data and example outputs are available on Figshare:
@@ -296,6 +288,9 @@ All code in this section was written by Dr Alissa Parmenter during her PhD at Un
 
 Initial methodology for calculating fibre strain from DVC was developed by Dr Catherine Disney during her EPSRC Doctoral Prize Fellowship at the University of Manchester. If you use this functionality, please also cite:
 
-Disney, C.M., Mo, J., Eckersley, A., Bodey, A.J., Hoyland, J.A., Sherratt, M.J., Pitsillides, A.A., Lee, P.D., Bay, B.K. (2022). Regional variations in discrete collagen fibre mechanics within intact intervertebral disc resolved using synchrotron computed tomography and digital volume correlation. Acta Biomaterialia, 138, 361–374.
+```
+Disney, C.M., Mo, J., Eckersley, A., Bodey, A.J., Hoyland, J.A., Sherratt, M.J., Pitsillides, A.A., Lee, P.D., Bay, B.K. (2022).
+Regional variations in discrete collagen fibre mechanics within intact intervertebral disc resolved using synchrotron computed tomography and digital volume correlation. Acta Biomaterialia, 138, 361–374.
+```
 
 Funding: Engineering and Physical Sciences Research Council (EPSRC) grants EP/V011235/1, EP/V011006/1, EP/V011383/1, EP/V011065/1; Medical Research Council (MRC) grants MR/R025673/1, MR/V033506/1.
