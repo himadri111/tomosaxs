@@ -278,7 +278,7 @@ For questions about the code or methodology, please refer to the paper's methods
 
 ## License
 
-[To be specified]
+CC-BY
 
 ## Acknowledgments
 
@@ -293,4 +293,6 @@ Disney, C.M., Mo, J., Eckersley, A., Bodey, A.J., Hoyland, J.A., Sherratt, M.J.,
 Regional variations in discrete collagen fibre mechanics within intact intervertebral disc resolved using synchrotron computed tomography and digital volume correlation. Acta Biomaterialia, 138, 361–374.
 ```
 
-Funding: Engineering and Physical Sciences Research Council (EPSRC) grants EP/V011235/1, EP/V011006/1, EP/V011383/1, EP/V011065/1; Medical Research Council (MRC) grants MR/R025673/1, MR/V033506/1.
+## Funding: 
+
+Engineering and Physical Sciences Research Council (EPSRC) grants EP/V011235/1, EP/V011006/1, EP/V011383/1, EP/V011065/1; Medical Research Council (MRC) grants MR/R025673/1, MR/V033506/1.
